@@ -61,7 +61,7 @@ class SelectIssueComponent extends Component {
                       <Text style={[styles.Title, { fontSize: 14, color: '#707070', }]}>Driver Related</Text>
                       <Icon name='ios-chevron-forward' size={25} color="#707070" />
                       </View>
-                      <View style={styles.Line} />
+                      <View style={styles.Line} />   
 
 
                       <View style={styles.AddressView}> 
